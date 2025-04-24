@@ -1,4 +1,4 @@
-# Qandeel-Kamran-Assignment-2-Pyramid-Pattern
+Assignment-2-Pyramid-Pattern
 ✅ Is part mein kya ho raha hai: x = 5 initially spaces control karne ke liye use hota hai.
 
 Outer loop (for i in range(1, 6)) har row ke liye chalta hai (1 se 5 tak).
